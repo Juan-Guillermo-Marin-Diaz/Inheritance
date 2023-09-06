@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio 01 Guia 12 Inheritance/Ejercicio 01 Guia 12 Inheritance.iml" filepath="$PROJECT_DIR$/Ejercicio 01 Guia 12 Inheritance/Ejercicio 01 Guia 12 Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio Extra 02 Guia 12 Inheritance/Ejercicio Extra 02 Guia 12 Inheritance.iml" filepath="$PROJECT_DIR$/Ejercicio Extra 02 Guia 12 Inheritance/Ejercicio Extra 02 Guia 12 Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance Projects.iml" filepath="$PROJECT_DIR$/Inheritance Projects.iml" />
     </modules>
   </component>
